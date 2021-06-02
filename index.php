@@ -1,5 +1,7 @@
 <? php
 
-echo "Ola Galdino";
+echo "Ola Galdino vc e 10";
+
+echo "Ola Brasil";
 
 ?>
